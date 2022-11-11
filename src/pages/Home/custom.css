@@ -1,0 +1,10 @@
+.bg-home {
+  background-image: url('https://res.cloudinary.com/uom/image/upload/v1667148877/EAD/background_ate9ct.jpg');
+  width: 115vw;
+  height: 102vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-left: -40vw;
+  margin-top: -20vh;
+}
