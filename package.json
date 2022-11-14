@@ -46,5 +46,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://ead-server-sprint-boot.herokuapp.com"
+  "proxy": "http://bankappspring-env.eba-5mmdfmpt.us-east-1.elasticbeanstalk.com"
 }
